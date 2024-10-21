@@ -25,6 +25,9 @@ This involves exploring the data to answer important questions such as
 
 ### Data analysis 
 This includes the codes used for the data analysis and DAX expressions used
- ~~~ select * from [Capstone project where order_id] = 3~~~
+ ~~~ SQL
+select * from [Capstone project ]where order_id = 3
+~~~
  
 ### Data Visualisation 
+
