@@ -22,11 +22,9 @@ This involves exploring the data to answer important questions such as
 - Sales trend
 - Sales performance by region
 - What products sells most
-  
-  
-Installation 
-Usage
-Project structure 
-Analysis 
-Result 
-Recommendation 
+
+### Data analysis 
+This includes the codes used for the data analysis and DAX expressions used
+ ~~~ select * from [Capstone project where order_id] = 3~~~
+ 
+### Data Visualisation 
