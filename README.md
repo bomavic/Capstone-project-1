@@ -1,9 +1,14 @@
 # Capstone-project-1
-This is a sales data analysis for a retail shop.
-## Project title
+
+## Project title : Sales Data analysis 
 ## Project overview 
+This is a project work for my conclusion of a 3 months data analysis bootcamp organised by 'Ladies in Tech Africa in conjunction with Incubator hub.
+
+This is a sales data analysis for a retail shop.
+The analysis looks into sells performance in four (4) regions of the country where this retail shop is located.
 
 ### Data sources 
+The data was provided by our facilitators.
 ### Tools used
 - Microsoft Excel [Download here](https://www.Microsoft.com)
   1)  For Data Cleaning
@@ -16,7 +21,8 @@ This is a sales data analysis for a retail shop.
   ### Data Cleaning and Preparation
    - 1) Data loading and inspection
      2) Checking for missing variables
-     3) Data  Cleaning
+     3) Checking and removing duplicate datasets
+     4) Data  Cleaning
 ### Exploratory Data analysis 
 This involves exploring the data to answer important questions such as
 - Sales trend
@@ -30,4 +36,5 @@ select * from [Capstone project ]where order_id = 3
 ~~~
  
 ### Data Visualisation 
+Data Visualisation tool Power Bi 
 
