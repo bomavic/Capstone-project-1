@@ -41,4 +41,11 @@ from [CapStone 1.1] group by [Product]
 ### Data Visualisation 
 Data Visualisation tool Power Bi 
 
+Total Sales by Product
+![image](https://github.com/user-attachments/assets/c7b1ed1d-a918-4f85-9be1-a43cf5001cb6)
+
+ Total Sales by Product,Region.
 ![image](https://github.com/user-attachments/assets/a8414edb-f9d1-46c6-ba57-602ede3ad60a)
+
+Total Sales by Product,Region by month
+![image](https://github.com/user-attachments/assets/6e02bd9e-34e3-444b-8ffd-016f891051a2)
