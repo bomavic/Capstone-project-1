@@ -32,9 +32,13 @@ This involves exploring the data to answer important questions such as
 ### Data analysis 
 This includes the codes used for the data analysis and DAX expressions used
  ~~~ SQL
-select * from [Capstone project ]where order_id = 3
+Select [Product] aS [product category], SUm(quantity*unitPrice) aS [total SaleS]
+from [CapStone 1.1] group by [Product]
 ~~~
  
+
+
 ### Data Visualisation 
 Data Visualisation tool Power Bi 
 
+![image](https://github.com/user-attachments/assets/a8414edb-f9d1-46c6-ba57-602ede3ad60a)
