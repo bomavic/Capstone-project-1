@@ -41,4 +41,4 @@ from [CapStone 1.1] group by [Product]
 ### Data Visualisation 
 Data Visualisation tool Power Bi 
 
-![image](https://github.com/user-attachments/assets/a8414edb-f9d1-46c6-ba57-602ede3ad60a)
+[image](https://github.com/user-attachments/assets/a8414edb-f9d1-46c6-ba57-602ede3ad60a)
