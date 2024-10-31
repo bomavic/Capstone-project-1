@@ -37,3 +37,12 @@ select * from [Capstone project ]where order_id = 3
 ### Data Visualisation 
 Data Visualisation tool Power Bi 
 
+Using Power Bi I was able to first transform the data and checked out for any data inconsistencies using the column quality option. After that I proceeded to analyse my Data.
+
+To get the number of people who cancelled their subscription,  I created a conditional column called COLUMN COUNT ... 
+powerbi
+~~~ Cancelled TRUE =1 Else 0
+~~~
+
+
+
