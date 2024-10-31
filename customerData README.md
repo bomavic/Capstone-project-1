@@ -44,5 +44,15 @@ powerbi
 ~~~ Cancelled TRUE =1 Else 0
 ~~~
 
+## Inference from the analysis 
+People who cancelled their subscription were from the
+- North
+- South
+- and West Region.
+
+There was no cancellation from the East.
+
+The subscription plan that had the most cancellation was - followed by - and
 
 
+ 
