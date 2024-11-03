@@ -140,10 +140,13 @@ Excel was used to perform data summarization, categorization, and visualization 
 
 
 ### 3. **Power BI Analysis**
+Power BI was used to perform advanced data analysis and create interactive visualizations based on customer subscription data. 
+Filtered data to rank regions by cancellation count, with South leading followed  by North and West 
+     -Created a series of bar charts, to represent the analysis visually.
+   - These visuals offered an interactive way to explore the data, enabling users to drill down by region, subscription type, and cancellation status for detailed insights. 
 
-Using Power Bi I was able to first transform the data and checked out for any data inconsistencies using the column quality option. After that I proceeded to analyse my Data.
 
-To get the number of people who cancelled their subscription,  I created a conditional column called COLUMN COUNT ... 
+To get the number of people who cancelled their subscription,  I created a conditional column called Canceled COUNT ... 
 powerbi
 ~~~ Cancelled TRUE =1 Else 0
 ~~~
