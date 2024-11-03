@@ -64,7 +64,6 @@ The **South region** also leads in average sales per product, indicating a highe
 
 **Visualization**: Using **Pivot Tables** and **Bar Charts**, the data was organized and visually represented for clear insights into regional sales performance.
 
-
 [image](https://github.com/user-attachments/assets/a8414edb-f9d1-46c6-ba57-602ede3ad60a)
 
 ### 2. **SQL Analysis**
