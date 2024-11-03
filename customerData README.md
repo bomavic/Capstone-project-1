@@ -63,15 +63,13 @@ powerbi
 ~~~ Cancelled TRUE =1 Else 0
 ~~~
 
-## Inference from the analysis 
-People who cancelled their subscription were from the
-- North
-- South
-- and West Region.
 
-There was no cancellation from the East.
+## Conclusion 
 
-The subscription plan that had the most cancellation was - followed by - and
-
-
- 
+The analysis reveals significant insights into customer behavior and revenue distribution:
+- **Customer Distribution**: Customers are evenly distributed across all regions.
+- **Subscription Popularity**: The Basic subscription type dominates in popularity and revenue generation.
+- **Subscription Duration**: Customers typically stay subscribed for a year.
+- **Revenue Insights**: While Basic subscriptions generate the highest revenue, Premium and Standard subscriptions also contribute substantially.
+- **Cancellation Trends**: South, North, and West regions exhibit higher cancellation rates, indicating potential areas for improvement in customer retention strategies.
+- **Subscription Status**: An equal number of active and canceled subscriptions suggest a balanced churn rate that may need addressing to enhance growth.
