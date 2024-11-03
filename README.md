@@ -98,3 +98,4 @@ The product category with the highest total sales value is **Shoes**. This sugge
 
 
 ### 3. **Power BI Analysis**
+This Power BI project provides insights into product sales across various regions. The dataset includes sales transactions by product category and region, focusing on total sales, transaction volume, and regional contributions. This analysis provides key metrics for each region and product, helping to identify top-performing categories and potential areas for growth.
