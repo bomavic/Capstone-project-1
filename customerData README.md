@@ -162,3 +162,36 @@ The analysis reveals significant insights into customer behavior and revenue dis
 - **Revenue Insights**: While Basic subscriptions generate the highest revenue, Premium and Standard subscriptions also contribute substantially.
 - **Cancellation Trends**: South, North, and West regions exhibit higher cancellation rates, indicating potential areas for improvement in customer retention strategies.
 - **Subscription Status**: An equal number of active and canceled subscriptions suggest a balanced churn rate that may need addressing to enhance growth.
+
+
+
+
+### Recommendations 
+
+1. **Increase Focus on Popular Subscription Plans**
+   - Since the "Basic" subscription is the most popular, consider enhancing the value or features offered with this plan. Promotional offers or discounts could also be introduced to encourage existing Basic plan users to upgrade to higher tiers, such as Standard or Premium, which offer higher revenue per customer. 
+
+2. **Target Retention Efforts in High-Cancellation Regions**
+   - With South, North, and West regions having the highest cancellation counts, targeted retention strategies should be implemented in these areas. This could include customer satisfaction surveys, loyalty programs, and personalized follow-ups to understand and address reasons for cancellation. 
+
+3. **Monitor Active vs. Canceled Subscription Rates**
+   - The equal split between active and canceled subscriptions is noteworthy and warrants continuous monitoring. Implement automated alerts to detect trends in cancellations, which can allow timely interventions to maintain or improve the active customer base. 
+
+4. **Enhance Customer Experience Across Regions**
+   - Since each region has a similar number of customers, deploying region-specific marketing campaigns and customer support could improve engagement. Tailored services or localized features might help address unique regional needs and encourage customer retention. 
+
+5. **Leverage Subscription Duration Insights**
+   - The average subscription duration of 365 days highlights the need for renewal strategies. Consider offering incentives for early renewal, or explore subscription models that encourage longer-term commitments to reduce churn. 
+
+6. **Analyze Revenue Potential by Subscription Type**
+   - With Basic and Premium subscription types generating the highest revenues, further analysis should be conducted to identify ways of optimizing pricing or bundling for these plans. Engaging with these customer segments through exclusive offers or additional services could lead to increased revenue. 
+
+### Final Note
+Implementing these recommendations could enhance customer satisfaction, and potentially increase revenue streams. Monitoring the outcomes of these strategies in Power BI will help refine future business actions and maintain a data-driven approach to growth.
+
+
+
+
+
+
+
