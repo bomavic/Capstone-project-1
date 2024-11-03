@@ -44,6 +44,27 @@ from [CapStone 1.1] group by [Product]
 ### 1. **Excel Analysis**
 
 
+### Excel Analysis Summary 
+
+**1. Total Revenue by Product and Region:**
+   - **North:** 387,100.00
+   - **South:** 929,190.00
+   - **West:** 300,345.00
+   - **East:** 486,800.00 
+
+This breakdown provides insights into the revenue contribution from each region. The **South region** generates the highest revenue, while the **West region** brings in the least. 
+
+**2. Average Sales per Product by Region:**
+   - **North:** 155.96
+   - **South:** 374.07
+   - **West:** 121.25
+   - **East:** 195.74 
+
+The **South region** also leads in average sales per product, indicating a higher revenue per item sold compared to other regions. The **West region** has the lowest average, suggesting potential areas for sales growth or marketing focus. 
+
+**Visualization**: Using **Pivot Tables** and **Bar Charts**, the data was organized and visually represented for clear insights into regional sales performance.
+
+
 [image](https://github.com/user-attachments/assets/a8414edb-f9d1-46c6-ba57-602ede3ad60a)
 
 ### 2. **SQL Analysis**
