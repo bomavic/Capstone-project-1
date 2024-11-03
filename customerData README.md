@@ -58,7 +58,7 @@ FROM [Project 2.1]
   
 ## Results
 
-### 3. **Excel Analysis**
+### 1. **Excel Analysis**
 
 ### 2. **SQL Analysis**
 
