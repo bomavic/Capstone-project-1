@@ -1,5 +1,5 @@
 # Capstone-project-1
-
+## This is a project work for my conclusion of a 3 months data analysis bootcamp organised by 'Ladies in Tech Africa in conjunction with the Incubator Hub.
 ## Project title : Sales Data analysis 
 ## Project Overview
 This report provides an analysis of the sales data by examining total sales, transaction counts by region, and the highest-selling product category. These insights offer a better understanding of product performance and regional distribution of sales.
