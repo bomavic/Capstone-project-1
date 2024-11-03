@@ -1,4 +1,4 @@
-
+9
 ## Project title : Customer Data
 ## Project overview 
 This is a project work for my conclusion of a 3 months data analysis bootcamp organised by 'Ladies in Tech Africa in conjunction with the Incubator Hub.
@@ -58,6 +58,7 @@ SELECT
     SUM(CASE WHEN Canceled = 'TRUE' THEN 1 ELSE 0 END) AS Total_Canceled_Subscriptions
 FROM [Project 2.1] 
 ~~~
+
   
 ## Results
 
