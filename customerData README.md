@@ -50,7 +50,10 @@ This involves exploring the data to answer important questions such as
 ### Data analysis 
 This includes the codes used for the data analysis and DAX expressions used
  ~~~ SQL
-select * from [Capstone project ]where order_id = 3
+SELECT 
+    SUM(CASE WHEN Canceled = 'FALSE' THEN 1 ELSE 0 END) AS Total_Active_Subscriptions,
+    SUM(CASE WHEN Canceled = 'TRUE' THEN 1 ELSE 0 END) AS Total_Canceled_Subscriptions
+FROM [Project 2.1] 
 ~~~
  
 ### Data Visualisation 
