@@ -190,6 +190,13 @@ The analysis reveals significant insights into customer behavior and revenue dis
 ### Final Note
 Implementing these recommendations could enhance customer satisfaction, and potentially increase revenue streams. Monitoring the outcomes of these strategies in Power BI will help refine future business actions and maintain a data-driven approach to growth.
 
+For any queries or further information, please contact: 
+
+- **Name**: [Boma Epelle]
+- **Email**: [bomajerry@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/boma-epelle]
+- **GitHub**: [https://github.com/bomavic]
+
 
 
 
