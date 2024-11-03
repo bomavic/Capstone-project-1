@@ -46,8 +46,9 @@ This involves exploring the data to answer important questions such as
 - The most popular subscription 
 - Subscription patterns
 - Most consistent customers.
-  
 
+
+  
 ### Data analysis 
 This includes the codes used for the data analysis and DAX expressions used
  ~~~ SQL
