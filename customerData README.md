@@ -55,9 +55,14 @@ SELECT
     SUM(CASE WHEN Canceled = 'TRUE' THEN 1 ELSE 0 END) AS Total_Canceled_Subscriptions
 FROM [Project 2.1] 
 ~~~
- 
-### Data Visualisation 
-Data Visualisation tool Power Bi 
+  
+## Results
+
+### 3. **Excel Analysis**
+
+### 2. **SQL Analysis**
+
+### 3. **Power BI Analysis**
 
 Using Power Bi I was able to first transform the data and checked out for any data inconsistencies using the column quality option. After that I proceeded to analyse my Data.
 
