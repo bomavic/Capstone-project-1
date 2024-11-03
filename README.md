@@ -3,9 +3,7 @@
 ## Project title : Sales Data analysis 
 ## Project Overview
 This report provides an analysis of the sales data by examining total sales, transaction counts by region, and the highest-selling product category. These insights offer a better understanding of product performance and regional distribution of sales.
-
-This is a sales data analysis for a retail shop.
-The analysis looks into sells performance in four (4) regions of the country where this retail shop is located.
+ 
 
 ### Data sources 
 The data was provided by our facilitators.
