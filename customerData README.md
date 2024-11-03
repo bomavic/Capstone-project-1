@@ -82,7 +82,6 @@ Excel was used to perform data summarization, categorization, and visualization 
 
 
 
-
 ### 2. **SQL Analysis**
 
 ### 1. Total Number of Customers per Region 
