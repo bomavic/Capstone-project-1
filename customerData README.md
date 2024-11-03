@@ -63,6 +63,61 @@ FROM [Project 2.1]
 
 ### 2. **SQL Analysis**
 
+### 1. Total Number of Customers per Region 
+
+| Region | Total Customers |
+|--------|------------------|
+| East   | 5                |
+| North  | 5                |
+| South  | 5                |
+| West   | 5                | 
+
+*All regions have an equal number of customers, each with 5 customers.* 
+
+### 2. Most Popular Subscription Type 
+
+| Subscription Type | Number of Customers |
+|-------------------|---------------------|
+| Basic             | 9,816               | 
+
+*The Basic subscription type is overwhelmingly the most popular among customers.* 
+
+### 3. Average Subscription Duration 
+
+- **Average Duration**: 365 days 
+
+*On average, customers maintain their subscriptions for one year.* 
+
+### 4. Total Revenue by Subscription Type 
+
+| Subscription Type | Total Revenue   |
+|-------------------|-----------------|
+| Premium           | $9,838,756      |
+| Standard          | $9,794,756      |
+| Basic             | $19,596,735     | 
+
+*The Basic subscription type generates the highest total revenue, followed by Premium and Standard.* 
+
+### 5. Top 3 Regions by Cancellation 
+
+| Region | Number of Cancellations |
+|--------|-------------------------|
+| South  | 2,946                   |
+| North  | 2,945                   |
+| West   | 2,941                   | 
+
+*South, North, and West are the top three regions with the highest number of subscription cancellations.* 
+
+### 6. Total Number of Active and Canceled Subscriptions 
+
+| Subscription Status | Total Subscriptions |
+|---------------------|---------------------|
+| Active              | 10,827              |
+| Canceled            | 10,827              | 
+
+*There is an equal number of active and canceled subscriptions, each totaling 10,827.*
+
+
 ### 3. **Power BI Analysis**
 
 Using Power Bi I was able to first transform the data and checked out for any data inconsistencies using the column quality option. After that I proceeded to analyse my Data.
