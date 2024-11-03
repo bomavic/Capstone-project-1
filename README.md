@@ -38,7 +38,14 @@ from [CapStone 1.1] group by [Product]
  
 
 
-### Data Visualisation 
-Data Visualisation tool Power Bi 
+
+## Results
+
+### 1. **Excel Analysis**
+
 
 [image](https://github.com/user-attachments/assets/a8414edb-f9d1-46c6-ba57-602ede3ad60a)
+
+### 2. **SQL Analysis**
+
+### 3. **Power BI Analysis**
