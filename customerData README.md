@@ -5,6 +5,7 @@ This is a project work for my conclusion of a 3 months data analysis bootcamp or
 
 ## Objectives 
 
+
 The primary objectives of this analysis are:
 - To determine the distribution of customers across various regions.
 - To identify the most popular subscription type among customers.
