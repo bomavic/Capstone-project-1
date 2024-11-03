@@ -61,6 +61,28 @@ FROM [Project 2.1]
 
 ### 1. **Excel Analysis**
 
+
+
+**Data Summary Using Pivot Tables and Bar Charts** 
+
+Excel was used to perform data summarization, categorization, and visualization on customer subscription information. The key steps and insights derived are outlined below: 
+
+### 1. **Pivot Table Analysis**
+   - **Objective:** Organize and summarize the data by region, subscription type, and cancellation status.
+   - **Key Insights:**
+     - **Total Customers by Region:** 
+     - **Most Popular Subscription Type:** Determined that the "Basic" subscription had the highest count.
+   
+    
+
+### 2. **Data Visualization with Bar Charts**
+   - **Method:** Created bar charts to visualize key metrics, including customer distribution by region, revenue by subscription type, and cancellations by region.
+   - **Purpose:** The visualizations provided a clear and immediate understanding of the distribution and trends within the dataset, making it easier to spot high-performing regions and subscription types, as well as areas with higher cancellation rates.
+
+
+
+
+
 ### 2. **SQL Analysis**
 
 ### 1. Total Number of Customers per Region 
