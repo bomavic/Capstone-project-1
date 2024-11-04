@@ -119,3 +119,9 @@ The sales data analysis has provided valuable insights into regional performance
 5. **Monthly Sales Analysis**: Regular reviews of monthly sales trends can help identify patterns and potential peak sales periods, allowing for strategic adjustments in stock levels and promotions. 
 
 By implementing these recommendations, the company can improve its responsiveness to market demands, increase revenue, and optimize its operations based on data-driven decisions. 
+
+**Name**: [Boma Epelle]
+- **Email**: [bomajerry@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/boma-epelle]
+- **GitHub**: [https://github.com/bomavic]
+
