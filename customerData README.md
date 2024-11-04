@@ -16,6 +16,7 @@ The primary objectives of this analysis are:
 
 ## Data Description 
 
+
 The dataset used for this analysis includes the following columns:
 - **CustomerID**: Unique identifier for each customer.
 - **CustomerName**: Name of the customer.
