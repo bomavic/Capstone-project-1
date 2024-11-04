@@ -102,23 +102,23 @@ Excel was used to perform data summarization, categorization, and visualization 
 
 | Subscription Type | Number of Customers |
 |-------------------|---------------------|
-| Basic             | 9,816               | 
+| Standard          | 8,420            | 
 
-*The Basic subscription type is overwhelmingly the most popular among customers.* 
+*The standard subscription type is overwhelmingly the most popular among customers.* 
 
 ### 3. Average Subscription Duration 
 
-- **Average Duration**: 365 days 
+- **Average Duration**: 164 days 
 
-*On average, customers maintain their subscriptions for one year.* 
+*On average, customers maintain their subscriptions for 164 days* 
 
 ### 4. Total Revenue by Subscription Type 
 
 | Subscription Type | Total Revenue   |
 |-------------------|-----------------|
-| Premium           | $9,838,756      |
-| Standard          | $9,794,756      |
-| Basic             | $19,596,735     | 
+| Premium           | 16899064    |
+| Standard          |   16864376   |
+| Basic             | 33776735   | 
 
 *The Basic subscription type generates the highest total revenue, followed by Premium and Standard.* 
 
@@ -126,18 +126,18 @@ Excel was used to perform data summarization, categorization, and visualization 
 
 | Region | Number of Cancellations |
 |--------|-------------------------|
-| South  | 2,946                   |
-| North  | 2,945                   |
-| West   | 2,941                   | 
+| North  | 5067                 |
+| South  | 5064                 |
+| West   | 5044                 | 
 
-*South, North, and West are the top three regions with the highest number of subscription cancellations.* 
+*North, South and West are the top three regions with the highest number of subscription cancellations.* 
 
 ### 6. Total Number of Active and Canceled Subscriptions 
 
 | Subscription Status | Total Subscriptions |
 |---------------------|---------------------|
-| Active              | 10,827              |
-| Canceled            | 10,827              | 
+| Active              | 59825             |
+| Canceled            | 59825            | 
 
 *There is an equal number of active and canceled subscriptions, each totaling 10,827.*
 
@@ -183,7 +183,7 @@ The analysis reveals significant insights into customer behavior and revenue dis
    - Since each region has a similar number of customers, deploying region-specific marketing campaigns and customer support could improve engagement. Tailored services or localized features might help address unique regional needs and encourage customer retention. 
 
 5. **Leverage Subscription Duration Insights**
-   - The average subscription duration of 365 days highlights the need for renewal strategies. Consider offering incentives for early renewal, or explore subscription models that encourage longer-term commitments to reduce churn. 
+   - The average subscription duration of 164 days highlights the need for renewal strategies. Consider offering incentives.
 
 6. **Analyze Revenue Potential by Subscription Type**
    - With Basic and Premium subscription types generating the highest revenues, further analysis should be conducted to identify ways of optimizing pricing or bundling for these plans. Engaging with these customer segments through exclusive offers or additional services could lead to increased revenue. 
