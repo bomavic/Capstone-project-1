@@ -119,7 +119,10 @@ This shows the sum of Total sales by Product.
   4) Gloves 297,400
   5) Jacket 208,440
   6) Socks 181,055
-This shows that shoes were sold the most and Socks were the least sold
+This shows that shoes were sold the most and Socks were the least sold.
+
+![bar chart Bi iii](https://github.com/user-attachments/assets/68358ef6-1e1c-41d3-8c2f-395967568575)
+
   
 
 
