@@ -149,11 +149,23 @@ Filtered data to rank regions by cancellation count, with South leading followed
      -Created a series of bar charts, to represent the analysis visually.
    - These visuals offered an interactive way to explore the data, enabling users to drill down by region, subscription type, and cancellation status for detailed insights. 
 
-
 To get the number of people who cancelled their subscription,  I created a conditional column called Canceled COUNT ... 
 powerbi
 ~~~ Cancelled TRUE =1 Else 0
 ~~~
+
+![Bi 2 1](https://github.com/user-attachments/assets/0f02a336-c01d-4f1a-b0b8-9f79f92edb26)
+
+![Bi 2 11](https://github.com/user-attachments/assets/48508892-af6d-4b16-8db4-b9b16e710749)
+
+![Bi 2 12](https://github.com/user-attachments/assets/e610f4fe-7c50-4847-bc0d-b9ff56f4cdf3)
+![Bi 2 13](https://github.com/user-attachments/assets/54a86cbe-0501-4bb1-837b-15c07f35ccf5)
+
+![Bi 2 14](https://github.com/user-attachments/assets/cc9043cf-6bd3-414c-980f-70882ba62af0)
+
+
+
+
 
 
 ## Conclusion 
