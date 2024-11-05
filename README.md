@@ -71,6 +71,11 @@ The pivot table clearly shows the products and Sum of Total sales in Descending 
 ![pivot table ii](https://github.com/user-attachments/assets/7bf74829-b375-4bd2-9e7b-684b82ce006a)
 
 This highlights Total sales by Product by Region.
+   - In the South products sold are Shoes,  Gloves and Socks
+   - In the East products sold are Shoes,Shirts, Hats and Jackets.
+   - In the North, products sold are Shirts, Hats and Jackets.
+   - In the West, products sold are Shoes, Hats, Gloves, and socks.
+
 ![pivot table iii](https://github.com/user-attachments/assets/d76dc7c7-8876-45e8-a994-2e371834fd51)
 This chart Shows products sold in different months by Total Sales, from the highest sold to the lowest. 
    i) The highest Sales month is February with shoes being the product sold.
