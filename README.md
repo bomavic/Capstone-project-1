@@ -72,8 +72,13 @@ The pivot table clearly shows the products and Sum of Total sales in Descending 
 
 This highlights Total sales by Product by Region.
 ![pivot table iii](https://github.com/user-attachments/assets/d76dc7c7-8876-45e8-a994-2e371834fd51)
+This chart Shows products sold in different months by Total Sales, from the highest sold to the lowest. 
+   i) The highest Sales month is February with shoes being the product sold.
+   ii) The lowest Sales month is September and the product sold is Hat.
 
-
+  
+  
+  
 ### 2. **SQL Analysis**
 
 
