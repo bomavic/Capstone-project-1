@@ -123,6 +123,9 @@ This shows that shoes were sold the most and Socks were the least sold.
 
 ![bar chart Bi iii](https://github.com/user-attachments/assets/d4e483f2-bec2-4940-ad07-32122a5ba26c)
 
+![bar chart Bi iv](https://github.com/user-attachments/assets/58f7109d-07f6-4881-af5e-e6e08ae8fac0)
+
+
 
 
 ### Conclusion 
