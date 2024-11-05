@@ -69,7 +69,7 @@ The **South region** also leads in average sales per product, indicating a highe
 ![pivot table i](https://github.com/user-attachments/assets/adef30ad-a62f-4985-b5ad-c401708ce041)
 The pivot table clearly shows the products and Sum of Total sales in Descending order.  
 ![pivot table ii](https://github.com/user-attachments/assets/e459e146-a227-45c5-92ca-b40316711942)
-
+This highlights Total sales by Product by Region.
 ![pivot table iii](https://github.com/user-attachments/assets/f4706c1a-1fc8-48ad-bfa1-70057ca5d8b4)
 
 ### 2. **SQL Analysis**
