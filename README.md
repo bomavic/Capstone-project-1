@@ -110,9 +110,17 @@ This Power BI project provides insights into product sales across various region
 ![doughnut chart](https://github.com/user-attachments/assets/103b93e7-7e88-415e-83ae-4e88ff3e3b5c)
 The doughnut chart, shows percentage (%) distribution of Total sales across the four regions..The highest being the South at 44.17% followed by the East Region at 23.14 %, next is the North Region at 18.4% and the least is the West region at 14.28%
 ![bar chart Bi i](https://github.com/user-attachments/assets/6d58396a-d88b-4537-88a5-e0e0c8820c54)
-
+This shows the sum of Total sales by region.  South 929,190, East 486,800, North 387,100 and West 300,345.
 ![bar chart Bi ii](https://github.com/user-attachments/assets/4591ec27-0427-4a99-9c1a-e518f4f41671)
-
+This shows the sum of Total sales by Product. 
+  1) Shoes 614,055
+  2) Shirt 486,180
+  3) Hat 316,305
+  4) Gloves 297,400
+  5) Jacket 208,440
+  6) Socks 181,055
+This shows that shoes were sold the most and Socks were the least sold
+  
 ![bar chart Bi iii](https://github.com/user-attachments/assets/fe040236-83e1-46c3-9f87-0a8af6d51b86)
 
 
