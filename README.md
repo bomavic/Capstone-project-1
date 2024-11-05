@@ -71,7 +71,8 @@ The pivot table clearly shows the products and Sum of Total sales in Descending 
 ![pivot table ii](https://github.com/user-attachments/assets/7bf74829-b375-4bd2-9e7b-684b82ce006a)
 
 This highlights Total sales by Product by Region.
-![pivot table iii](https://github.com/user-attachments/assets/f4706c1a-1fc8-48ad-bfa1-70057ca5d8b4)
+![pivot table iii](https://github.com/user-attachments/assets/d76dc7c7-8876-45e8-a994-2e371834fd51)
+
 
 ### 2. **SQL Analysis**
 
