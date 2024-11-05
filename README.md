@@ -103,6 +103,8 @@ This Power BI project provides insights into product sales across various region
 
 ![doughnut chart](https://github.com/user-attachments/assets/103b93e7-7e88-415e-83ae-4e88ff3e3b5c)
 
+![bar chart Bi i](https://github.com/user-attachments/assets/6d58396a-d88b-4537-88a5-e0e0c8820c54)
+
 
 
 ### Conclusion 
