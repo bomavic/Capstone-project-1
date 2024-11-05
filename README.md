@@ -51,7 +51,7 @@ from [CapStone 1.1] group by [Product]
    - **East:** 486,800.00 
 
 This breakdown provides insights into the revenue contribution from each region. The **South region** generates the highest revenue, while the **West region** brings in the least. 
-
+The **South region** also leads in average sales per product, indicating a higher revenue per item sold compared to other regions. The **West region** has the lowest average, suggesting potential areas for sales growth or marketing focus. 
 **2. Average Sales per Product by Region:**
    - **North:** 155.96
    - **South:** 374.07
@@ -60,7 +60,7 @@ This breakdown provides insights into the revenue contribution from each region.
 ![pivot table i](https://github.com/user-attachments/assets/adef30ad-a62f-4985-b5ad-c401708ce041)
 
 
-The **South region** also leads in average sales per product, indicating a higher revenue per item sold compared to other regions. The **West region** has the lowest average, suggesting potential areas for sales growth or marketing focus. 
+
 
 **Visualization**: Using **Pivot Tables** and **Bar Charts**, the data was organized and visually represented for clear insights into regional sales performance.
 
