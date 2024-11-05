@@ -121,7 +121,6 @@ This shows the sum of Total sales by Product.
   6) Socks 181,055
 This shows that shoes were sold the most and Socks were the least sold
   
-![bar chart Bi iii](https://github.com/user-attachments/assets/fe040236-83e1-46c3-9f87-0a8af6d51b86)
 
 
 ### Conclusion 
