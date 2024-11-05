@@ -105,6 +105,9 @@ This Power BI project provides insights into product sales across various region
 
 ![bar chart Bi i](https://github.com/user-attachments/assets/6d58396a-d88b-4537-88a5-e0e0c8820c54)
 
+![bar chart Bi ii](https://github.com/user-attachments/assets/4591ec27-0427-4a99-9c1a-e518f4f41671)
+
+![bar chart Bi iii](https://github.com/user-attachments/assets/fe040236-83e1-46c3-9f87-0a8af6d51b86)
 
 
 ### Conclusion 
