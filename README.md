@@ -130,6 +130,8 @@ This shows that shoes were sold the most and Socks were the least sold.
   - An average of 230 Hats were sold in 2023, it dropped to 90 in 2024.
   - An average of 143 Socks were sold in 2023, it dropped to 80 in 2024
 From the chart we can see that while Shoes, Shirts, Hats and Gloves increased in average total sales from 2023 to 2024, Jacket and Socks dropped in total sales.
+
+
 ![bar chart Bi iv](https://github.com/user-attachments/assets/58f7109d-07f6-4881-af5e-e6e08ae8fac0)
 On further analysis,  you will find that though the sales of Socks and Jackets dropped in 2024, a quarterly investigation into their sales chart shows that their peak sales in 2023 was in the Fourth quarter.
 
