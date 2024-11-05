@@ -57,6 +57,8 @@ This breakdown provides insights into the revenue contribution from each region.
    - **South:** 374.07
    - **West:** 121.25
    - **East:** 195.74 
+![pivot table i](https://github.com/user-attachments/assets/adef30ad-a62f-4985-b5ad-c401708ce041)
+
 
 The **South region** also leads in average sales per product, indicating a higher revenue per item sold compared to other regions. The **West region** has the lowest average, suggesting potential areas for sales growth or marketing focus. 
 
