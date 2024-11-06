@@ -1,4 +1,13 @@
 This is a class work done during my bootcamp training organised by Ladies in Tech Africa in conjunction with Incubator hub. 
+
+This Power BI report is about attrition in an organisation. 
+The organisation is made up of different Educational fields 
+  - Human Resources
+  - Life Sciences
+  - Marketing
+  - Medical
+  - Technology Degree
+  - Others. 
 ![hr i](https://github.com/user-attachments/assets/a67eac15-1d7a-412b-bd8c-4b697f4298ee)
 
 
