@@ -16,6 +16,14 @@ This doughnut chart represents Sum of attrition count by gender.
 
 ![hr ii](https://github.com/user-attachments/assets/3d14943e-0593-43b7-ac54-f7165384ec93)
 
-
+Sum of Employee number by Gender
 ![hr iii](https://github.com/user-attachments/assets/7c713c26-c33d-4e4d-9586-aaab093e774b)
+Count of current Employee by marital status 
 ![hr iv](https://github.com/user-attachments/assets/53277e6a-e60c-47a6-b2c9-0383b0651979)
+Attrition count by Employee. 
+  - Human resources 7
+  - Life Sciences  89
+  - Marketing 35
+  - Medical 63
+  - Technical Degree 32
+  - other 11
