@@ -156,14 +156,22 @@ powerbi
 
 ![Bi 2 1](https://github.com/user-attachments/assets/0f02a336-c01d-4f1a-b0b8-9f79f92edb26)
 
-![Bi 2 11](https://github.com/user-attachments/assets/48508892-af6d-4b16-8db4-b9b16e710749)
-
+The Total Revenue is 67,540,175.
+The number that cancelled their subscription 1s 15,175.
+Out of these numbers;
+  - Basic Subscription Canceled 5,067
+  - Premium 5,064
+  - Standard 5,044
+ ![Bi 2 11](https://github.com/user-attachments/assets/48508892-af6d-4b16-8db4-b9b16e710749)
+In the South Region the subscription is Premium. 
 ![Bi 2 12](https://github.com/user-attachments/assets/e610f4fe-7c50-4847-bc0d-b9ff56f4cdf3)
+In the North, the subscription canceled is Basic
 ![Bi 2 13](https://github.com/user-attachments/assets/54a86cbe-0501-4bb1-837b-15c07f35ccf5)
+Surprising, there was no Canceled Subscription in the East.
 
 ![Bi 2 14](https://github.com/user-attachments/assets/cc9043cf-6bd3-414c-980f-70882ba62af0)
 
-
+In the West, the subscription canceled is Standard. 
 
 
 
