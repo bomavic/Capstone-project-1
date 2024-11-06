@@ -1,4 +1,21 @@
-This is a class work done during my bootcamp training organised by Ladies in Tech Africa in conjunction with Incubator hub. 
+# Hr data
+
+## Project title : HR Data
+## Project Overview :
+This is a class work done during my bootcamp training organised by Ladies in Tech Africa in conjunction with Incubator hub.
+ 
+
+### Data sources 
+The data was provided by our facilitators.
+### Tools used
+- Microsoft Excel [Download here](https://www.Microsoft.com)
+  1)  For Data Cleaning
+  2)  For Analysis and
+  3)  Visualisation 
+- SQl(Structured query language) for querying of data 
+- Github: For portfolio building 
+- Microsoft Power Bi.
+ 
 
 This Power BI report is about attrition in an organisation. 
 The organisation is made up of different Educational fields 
