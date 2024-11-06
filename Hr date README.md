@@ -44,3 +44,5 @@ Attrition count by Employee.
   - Medical 63
   - Technical Degree 32
   - other 11
+
+This project is still ongoing and more to be updated...
