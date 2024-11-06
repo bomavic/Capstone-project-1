@@ -10,6 +10,9 @@ The organisation is made up of different Educational fields
   - Others. 
 ![hr i](https://github.com/user-attachments/assets/a67eac15-1d7a-412b-bd8c-4b697f4298ee)
 
+This doughnut chart represents Sum of attrition count by gender. 
+   - Male 51 which represents 57.3 %
+   - Female 38 which is 42.7 %
 
 ![hr ii](https://github.com/user-attachments/assets/3d14943e-0593-43b7-ac54-f7165384ec93)
 
