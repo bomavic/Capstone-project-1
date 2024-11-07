@@ -85,7 +85,9 @@ Excel was used to perform data summarization, categorization, and visualization 
 
 ![ei](https://github.com/user-attachments/assets/5e66547c-1d9c-49c6-994c-2e13cb200bbe)
 
+![eii](https://github.com/user-attachments/assets/a0b3d888-1af0-4456-9a53-614280edfd5f)
 
+![eiii](https://github.com/user-attachments/assets/7620f8fe-cdda-4d50-a2e9-9a6f462f2251)
 
 
 
