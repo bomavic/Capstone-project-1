@@ -85,15 +85,16 @@ Excel was used to perform data summarization, categorization, and visualization 
 
 ![ei](https://github.com/user-attachments/assets/5e66547c-1d9c-49c6-994c-2e13cb200bbe)
 ![bar i](https://github.com/user-attachments/assets/81145bda-7341-42ca-9600-ac41bf8bd92c)
-
+This shows the Revenue generated in the 4 regions.
+East Region generated the highest revenue and the North Region generated the least revenue.
 
 
 ![eii](https://github.com/user-attachments/assets/a0b3d888-1af0-4456-9a53-614280edfd5f)
 ![bar ii](https://github.com/user-attachments/assets/fb65c7e7-7026-4a70-9ab2-2e8d142cc201)
-
+The Basic subscription plan generated the highest revenue in the East Region. 
 
 ![eiii](https://github.com/user-attachments/assets/7620f8fe-cdda-4d50-a2e9-9a6f462f2251)
-
+'Canceled true' represents those that Canceled their subscriptions.  Here we sew North, South and West. No cancellation in the East Region. 
 
 
 ### 2. **SQL Analysis**
