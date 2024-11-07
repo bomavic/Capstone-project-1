@@ -1,0 +1,58 @@
+SELECT *  FROM [master].[dbo].[CapStone 1.1]
+
+
+
+-----Retrieve the total SaleS for each product by category
+
+Select [Product] aS [product category], SUm(quantity*unitPrice) aS [total SaleS]
+from [CapStone 1.1] group by [Product]
+
+Find the number of caleS from tranSactionS in each region
+
+Select region, count(orderID) aS [number of SaleS from tranSactionS] from [CapStone 1.1] group by region
+
+
+----Find the higheSt  Selling product by total  SaleS value-----
+
+ Select Top 1
+ product aS [product category], Sum(quantity*unitprice) aS totalSaleS from [CapStone 1.1] 
+ group by product 
+ order by totalSaleS deSc 
+
+
+ -----calculate total revenue per product
+
+ Select 
+ product aS [product category], Sum(quantity*unitprice) aS totalSaleS from [CapStone 1.1] 
+ group by product 
+  
+
+  ---Calculate monthly SaleS total for the current year
+  Select
+  month(orderDate) aS month,
+  Sum(quantity*Unitprice)aS totalSaleS
+  from [CapStone 1.1] 
+Where
+year(OrderDate)= YEAR(getdate())
+Group by
+month(orderDate)
+order by month
+
+
+  -----Find top 5 cuStomerS by total purchaSe amount
+
+Select Top 5 
+[Customer Id], Sum(quantity*unitprice) aS [total purchaSe amount] from [CapStone 1.1] 
+ group by [Customer Id]
+ order by [total purchaSe amount] deSc 
+ 
+ ---- Calculate the percentage of total SaleS contributed by each region
+
+
+
+ ----Identify productS With no SaleS in the laSt quarter
+
+ Select PRODUCT from [CapStone 1.1]  product not in (Select diStinct product from [CapStone 1.1] 
+ Where orderdate 
+ betWeen '2023-01-01' and '2024-12-31') group by product
+ 
