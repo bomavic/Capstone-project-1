@@ -174,4 +174,3 @@ By implementing these recommendations, the company can improve its responsivenes
 - **Email**: [bomajerry@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/boma-epelle]
 - **GitHub**: [https://github.com/bomavic]
-
