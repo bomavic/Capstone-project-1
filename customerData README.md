@@ -1,4 +1,4 @@
-9
+
 ## Project title : Customer Data
 ## Project overview 
 This is a project work for my conclusion of a 3 months data analysis bootcamp organised by 'Ladies in Tech Africa in conjunction with the Incubator Hub.
@@ -82,6 +82,9 @@ Excel was used to perform data summarization, categorization, and visualization 
 ### 2. **Data Visualization with Bar Charts**
    - **Method:** Created bar charts to visualize key metrics, including customer distribution by region, revenue by subscription type, and cancellations by region.
    - **Purpose:** The visualizations provided a clear and immediate understanding of the distribution and trends within the dataset, making it easier to spot high-performing regions and subscription types, as well as areas with higher cancellation rates.
+
+![ei](https://github.com/user-attachments/assets/5e66547c-1d9c-49c6-994c-2e13cb200bbe)
+
 
 
 
