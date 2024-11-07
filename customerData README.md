@@ -84,8 +84,13 @@ Excel was used to perform data summarization, categorization, and visualization 
    - **Purpose:** The visualizations provided a clear and immediate understanding of the distribution and trends within the dataset, making it easier to spot high-performing regions and subscription types, as well as areas with higher cancellation rates.
 
 ![ei](https://github.com/user-attachments/assets/5e66547c-1d9c-49c6-994c-2e13cb200bbe)
+![bar i](https://github.com/user-attachments/assets/81145bda-7341-42ca-9600-ac41bf8bd92c)
+
+
 
 ![eii](https://github.com/user-attachments/assets/a0b3d888-1af0-4456-9a53-614280edfd5f)
+![bar ii](https://github.com/user-attachments/assets/fb65c7e7-7026-4a70-9ab2-2e8d142cc201)
+
 
 ![eiii](https://github.com/user-attachments/assets/7620f8fe-cdda-4d50-a2e9-9a6f462f2251)
 
